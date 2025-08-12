@@ -2,7 +2,7 @@
 <p align="center">-->
 
 ### 😎 **Sobre mim**  
-Olá, sou Gerson Trindade, Especialista de Ensino em tecnologia e inovação no SENAI.
+Olá, sou Gerson Trindade, Especialista de Ensino em Tecnologia e Inovação no SENAI.
 
 <!--🐱CAT-->
 <!--
