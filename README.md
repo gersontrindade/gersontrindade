@@ -1,14 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Gerson!;🧑‍💻Sou+especialista+de+ensino+do+SENAI🚀)](https://git.io/typing-svg)
-<p align="center">
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!;😎Meu+nome+é+Gerson!;🧑‍💻Sou+especialista+de+ensino+do+SENAI🚀)](https://git.io/typing-svg)
+<p align="center">-->
 
 ### 😎 **Sobre mim**  
-Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Com uma abordagem prática e curiosa, compartilho conteúdos e cursos que podem ajudar no seu aprendizado em diversas áreas. Explore meus projetos e junte-se à nossa comunidade!
+Olá, sou Gerson Trindade, Especialista de Ensino em tecnologia e inovação no SENAI.
 
 <!--🐱CAT-->
+<!--
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</p>
+</p> -->
 
+<!--
 <p align="center">
   <a href="https://youtube.com/@MenteMaker?sub_confirmation=1">
     <img src="https://img.shields.io/badge/Inscreva--se-no%20YouTube-red?logo=youtube&style=for-the-badge" width="220">
@@ -16,13 +18,15 @@ Olá, sou o **Junior**, desenvolvedor apaixonado por tecnologia e inovação. Co
 </p>
 
 ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
-
+-->
+<!--
 ![YouTube Views](https://img.shields.io/youtube/channel/views/UCdHR_M4vqK1rtKo56RMQ9tQ?style=social)
-
-
+-->
+<!--
 ### 🌐 **Minhas Redes Sociais**  
 Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no YouTube, Instagram e Replit para mais interações e projetos:
-
+-->
+<!--
 <div style="display: flex; justify-content: center; margin-top: 20px;">
   <a href="https://www.youtube.com/@mentemaker/featured">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone YouTube" style="margin: 0 10px;">
@@ -44,9 +48,9 @@ Fique por dentro das novidades, dicas e conteúdos exclusivos! Acompanhe-me no Y
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-
+-->
 ### 🧑‍💻 **Minhas Habilidades e Tecnologias**  
-Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das ferramentas que utilizo para construir soluções inovadoras:
+Ampla experiência no ensino de tecnologias nas áreas de Eletrônica, Desenvolvimento de Sistemas e Automação.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
@@ -56,16 +60,16 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
+<!--   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="60" style="margin: 5px;"> -->
+<!--   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60" style="margin: 5px;"> -->
+<!--   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;"> -->
   <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" style="margin: 5px;">
+<!--   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;"> -->
+<!--   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" style="margin: 5px;"> -->
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;">
+<!--   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="60" style="margin: 5px;"> -->
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
 </div>
 
@@ -81,13 +85,13 @@ Trago uma ampla experiência em diversas tecnologias. Aqui estão algumas das fe
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
-
+<!--
 ### 🚀 **Meus Projetos**  
 Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender mais sobre tecnologia e programação. Confira:
-
+-->
 <div >
   <!-- Link Mente Maker -->
-  <a href="https://www.mentemaker.com.br/" target="_blank" style="font-size: 24px; font-weight: bold;">
+<!--   <a href="https://www.mentemaker.com.br/" target="_blank" style="font-size: 24px; font-weight: bold;">
     🌏 Mente Maker
   </a> <br>
    <a href="https://github.com/Makerjunior/CopiladorOnLine" target="_blank" style="font-size: 24px; font-weight: bold;">
@@ -101,25 +105,27 @@ Aqui estão alguns dos meus projetos desenvolvidos para ajudar você a aprender 
     </a> <br>
     <a href="https://github.com/Makerjunior/Snake_Game?tab=readme-ov-file" target="_blank" style="font-size: 24px; font-weight: bold;">
       🕹️ Tic-Tac-Toe
-    </a> <br>
+    </a> <br> -->
 
 </div>
 
 
 <br><br>
-
+<!--
 📝 **Gostou dos meus projetos?**  
 Entre em contato para mais informações ou se quiser colaborar! 🚀
 
 ---
-
+-->
+<!--
 ### 🌱 **Vamos Juntos!**  
 Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Juntos, podemos transformar suas ideias em realidade! 🚀
 
 [Mente Maker](https://www.youtube.com/@mentemaker)
 
 ---
-
+-->
+<!--
 ### 📊 
 <picture style="background-color: transparent; display: flex; justify-content: center;">
   <source
@@ -139,3 +145,4 @@ Siga-me para explorar novos conhecimentos e crescer na área de tecnologia. Junt
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
+-->
